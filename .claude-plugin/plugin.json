@@ -1,0 +1,19 @@
+{
+  "name": "oss-eval",
+  "description": "15-phase OSS framework evaluation methodology with AI bias prevention. Evaluates open source projects for adoption decisions with rigorous safeguards against common AI analysis pitfalls.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Adam Miller",
+    "url": "https://github.com/admiller"
+  },
+  "repository": "https://github.com/admiller/oss-eval-skills",
+  "license": "MIT",
+  "keywords": [
+    "oss",
+    "evaluation",
+    "framework",
+    "adoption",
+    "analysis",
+    "bias-prevention"
+  ]
+}
