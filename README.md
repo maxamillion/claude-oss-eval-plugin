@@ -1,4 +1,4 @@
-# OSS Evaluation Skills Plugin
+# OSS Evaluation Claude Plugin
 
 A comprehensive Claude Code plugin implementing a 15-phase methodology for evaluating open source software frameworks with built-in safeguards against AI analysis pitfalls.
 
