@@ -6,7 +6,7 @@
     "name": "Adam Miller",
     "url": "https://github.com/admiller"
   },
-  "repository": "https://github.com/admiller/oss-eval-skills",
+  "repository": "https://github.com/admiller/claude-oss-eval-plugin",
   "license": "MIT",
   "keywords": [
     "oss",
@@ -15,5 +15,8 @@
     "adoption",
     "analysis",
     "bias-prevention"
-  ]
+  ],
+  "commands": "./commands/",
+  "agents": "./agents/",
+  "skills": "./skills/"
 }

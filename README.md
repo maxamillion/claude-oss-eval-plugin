@@ -15,11 +15,61 @@ This plugin provides a structured, bias-resistant approach to evaluating OSS fra
 
 ## Installation
 
-1. Clone this repository to your project or a shared location
-2. The plugin will be automatically detected by Claude Code
+### Option 1: Plugin Marketplace (Recommended)
+
+Install directly within Claude Code using the plugin system:
 
 ```bash
-git clone https://github.com/admiller/oss-eval-skills.git
+# Add the marketplace (one time)
+/plugin marketplace add admiller/claude-oss-eval-plugin
+
+# Install the plugin
+/plugin install oss-eval
+```
+
+The plugin will be available immediately. Commands are namespaced as `/oss-eval:command`.
+
+### Option 2: Local Development
+
+For testing or contributing to the plugin:
+
+```bash
+# Clone the repository
+git clone https://github.com/admiller/claude-oss-eval-plugin.git
+
+# Run Claude Code with the plugin directory
+claude --plugin-dir /path/to/claude-oss-eval-plugin
+```
+
+### Option 3: Project Scope Installation
+
+Share the plugin with your team via git:
+
+```bash
+# Add marketplace and install with project scope
+/plugin marketplace add admiller/claude-oss-eval-plugin
+/plugin install oss-eval --scope project
+```
+
+This adds the plugin configuration to your project's `.claude/` directory.
+
+### Plugin Management
+
+```bash
+# List installed plugins
+/plugin list
+
+# Update to latest version
+/plugin update oss-eval
+
+# Disable temporarily
+/plugin disable oss-eval
+
+# Re-enable
+/plugin enable oss-eval
+
+# Uninstall
+/plugin uninstall oss-eval
 ```
 
 ## Quick Start
@@ -149,9 +199,10 @@ FastAPI has 78,234 GitHub stars [Verified: 2025-01-16 via github.com]
 ## Directory Structure
 
 ```
-oss-eval-skills/
+claude-oss-eval-plugin/
 ├── .claude-plugin/
-│   └── plugin.json           # Plugin manifest
+│   ├── plugin.json           # Plugin manifest
+│   └── marketplace.json      # Marketplace configuration
 ├── commands/
 │   ├── oss-eval.md           # Main entry point (manual mode)
 │   ├── oss-run.md            # Automated orchestrator (recommended)

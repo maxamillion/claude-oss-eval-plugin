@@ -1,0 +1,17 @@
+{
+  "owner": {
+    "name": "Adam Miller",
+    "url": "https://github.com/admiller"
+  },
+  "plugins": [
+    {
+      "name": "oss-eval",
+      "source": "./",
+      "description": "15-phase OSS framework evaluation methodology with AI bias prevention. Evaluates open source projects for adoption decisions with rigorous safeguards against common AI analysis pitfalls.",
+      "version": "1.0.0",
+      "homepage": "https://github.com/admiller/claude-oss-eval-plugin",
+      "repository": "https://github.com/admiller/claude-oss-eval-plugin",
+      "license": "MIT"
+    }
+  ]
+}
