@@ -17,6 +17,5 @@
     "bias-prevention"
   ],
   "commands": "./commands/",
-  "agents": "./agents/",
   "skills": "./skills/"
 }
