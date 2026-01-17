@@ -1,4 +1,5 @@
 ---
+name: risk
 description: "Phase 6: Synthesize findings from Phases 1-5 into a comprehensive risk assessment with quantified basis for decision-making."
 ---
 

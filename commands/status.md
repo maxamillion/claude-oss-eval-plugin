@@ -1,4 +1,5 @@
 ---
+name: status
 description: "Display current evaluation progress, phase completion status, and next recommended actions."
 ---
 

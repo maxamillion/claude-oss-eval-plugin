@@ -1,4 +1,5 @@
 ---
+name: report
 description: "Generate comprehensive evaluation reports from completed phases. Supports interim and final reports."
 ---
 

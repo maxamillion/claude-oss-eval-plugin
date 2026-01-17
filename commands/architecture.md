@@ -1,4 +1,5 @@
 ---
+name: architecture
 description: "Phase 7: Conduct deep technical analysis of candidate architectures including code-level examination and scalability characteristics."
 ---
 

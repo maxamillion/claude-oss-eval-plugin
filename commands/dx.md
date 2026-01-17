@@ -1,4 +1,5 @@
 ---
+name: dx
 description: "Phase 12: Evaluate developer experience (DX) including documentation quality, tooling, debugging, and learning resources."
 ---
 

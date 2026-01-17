@@ -1,4 +1,5 @@
 ---
+name: requirements
 description: "Phase 8: Map candidate capabilities against specific product/project requirements to assess fit and identify gaps."
 ---
 

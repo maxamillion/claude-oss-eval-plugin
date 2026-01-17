@@ -1,4 +1,5 @@
 ---
+name: validate
 description: "Phase 15: Conduct final validation through adversarial review ensuring all biases are addressed and recommendation is defensible."
 ---
 
