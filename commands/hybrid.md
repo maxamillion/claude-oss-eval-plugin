@@ -1,5 +1,4 @@
 ---
-name: hybrid
 description: "Phase 14: Explore hybrid approaches that combine multiple candidates for different use cases to optimize outcomes."
 ---
 

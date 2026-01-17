@@ -1,5 +1,4 @@
 ---
-name: discover
 description: "Phase 1: Conduct comprehensive web search discovery to identify candidate frameworks/libraries in the specified topic space."
 ---
 

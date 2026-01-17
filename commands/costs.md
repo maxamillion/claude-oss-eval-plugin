@@ -1,5 +1,4 @@
 ---
-name: costs
 description: "Phase 11: Quantify total cost of ownership (TCO) including infrastructure, licensing, maintenance, and hidden costs."
 ---
 

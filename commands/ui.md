@@ -1,5 +1,4 @@
 ---
-name: ui
 description: "Phase 10: Assess how each candidate integrates with UI including component libraries, theming, and accessibility."
 ---
 

@@ -1,5 +1,4 @@
 ---
-name: run
 description: "Execute a complete 15-phase OSS framework evaluation automatically with a single command. Runs all phases sequentially with progress tracking."
 ---
 

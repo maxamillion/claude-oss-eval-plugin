@@ -1,5 +1,4 @@
 ---
-name: licensing
 description: "Phase 4: Conduct thorough analysis of licensing implications including dependencies, commercial use restrictions, and compliance requirements."
 ---
 

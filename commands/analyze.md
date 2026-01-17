@@ -1,5 +1,4 @@
 ---
-name: analyze
 description: "Phase 2: Perform detailed analysis of each candidate identified in Phase 1, focusing on core capabilities, architecture, and initial fit assessment."
 ---
 

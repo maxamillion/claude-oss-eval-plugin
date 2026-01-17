@@ -1,5 +1,4 @@
 ---
-name: gaps
 description: "Phase 9: Develop comprehensive mitigation strategies for identified gaps including effort estimation and implementation planning."
 ---
 

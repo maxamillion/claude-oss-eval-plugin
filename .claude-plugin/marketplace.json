@@ -9,7 +9,7 @@
       "name": "oss-eval",
       "source": "./",
       "description": "15-phase OSS framework evaluation methodology with AI bias prevention. Evaluates open source projects for adoption decisions with rigorous safeguards against common AI analysis pitfalls.",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "homepage": "https://github.com/maxamillion/claude-oss-eval-plugin",
       "repository": "https://github.com/maxamillion/claude-oss-eval-plugin",
       "license": "MIT"

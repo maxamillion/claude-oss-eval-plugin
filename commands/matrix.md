@@ -1,5 +1,4 @@
 ---
-name: matrix
 description: "Phase 3: Develop a comprehensive, annotated feature comparison matrix with [OSS]/[PAID] differentiation and cross-platform verification."
 ---
 

@@ -1,5 +1,4 @@
 ---
-name: start
 description: Initialize and orchestrate a comprehensive 15-phase OSS framework evaluation with built-in safeguards against AI analysis pitfalls.
 ---
 
