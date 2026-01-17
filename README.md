@@ -21,7 +21,7 @@ Install directly within Claude Code using the plugin system:
 
 ```bash
 # Add the marketplace (one time)
-/plugin marketplace add admiller/claude-oss-eval-plugin
+/plugin marketplace add maxamillion/claude-oss-eval-plugin
 
 # Install the plugin
 /plugin install oss-eval
@@ -35,7 +35,7 @@ For testing or contributing to the plugin:
 
 ```bash
 # Clone the repository
-git clone https://github.com/admiller/claude-oss-eval-plugin.git
+git clone https://github.com/maxamillion/claude-oss-eval-plugin.git
 
 # Run Claude Code with the plugin directory
 claude --plugin-dir /path/to/claude-oss-eval-plugin
@@ -47,7 +47,7 @@ Share the plugin with your team via git:
 
 ```bash
 # Add marketplace and install with project scope
-/plugin marketplace add admiller/claude-oss-eval-plugin
+/plugin marketplace add maxamillion/claude-oss-eval-plugin
 /plugin install oss-eval --scope project
 ```
 
