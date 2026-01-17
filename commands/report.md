@@ -1,6 +1,8 @@
-# OSS Evaluation - Report Generation
+---
+description: "Generate comprehensive evaluation reports from completed phases. Supports interim and final reports."
+---
 
-**Command**: `/oss-eval:report [--interim] [--format <format>]`
+# OSS Evaluation - Report Generation
 
 ## Purpose
 

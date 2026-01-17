@@ -1,6 +1,8 @@
-# OSS Evaluation - Status Check
+---
+description: "Display current evaluation progress, phase completion status, and next recommended actions."
+---
 
-**Command**: `/oss-eval:status`
+# OSS Evaluation - Status Check
 
 ## Purpose
 

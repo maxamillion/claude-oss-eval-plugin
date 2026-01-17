@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 2: Candidate Analysis
+---
+description: "Phase 2: Perform detailed analysis of each candidate identified in Phase 1, focusing on core capabilities, architecture, and initial fit assessment."
+---
 
-**Command**: `/oss-eval:analyze`
+# OSS Evaluation - Phase 2: Candidate Analysis
 
 ## Purpose
 

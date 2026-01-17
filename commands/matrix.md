@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 3: Feature Matrix Development
+---
+description: "Phase 3: Develop a comprehensive, annotated feature comparison matrix with [OSS]/[PAID] differentiation and cross-platform verification."
+---
 
-**Command**: `/oss-eval:matrix`
+# OSS Evaluation - Phase 3: Feature Matrix Development
 
 ## Purpose
 

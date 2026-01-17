@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 7: Architecture Analysis
+---
+description: "Phase 7: Conduct deep technical analysis of candidate architectures including code-level examination and scalability characteristics."
+---
 
-**Command**: `/oss-eval:architecture`
+# OSS Evaluation - Phase 7: Architecture Analysis
 
 ## Purpose
 

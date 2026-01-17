@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 8: Requirements Alignment
+---
+description: "Phase 8: Map candidate capabilities against specific product/project requirements to assess fit and identify gaps."
+---
 
-**Command**: `/oss-eval:requirements`
+# OSS Evaluation - Phase 8: Requirements Alignment
 
 ## Purpose
 

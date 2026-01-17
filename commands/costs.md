@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 11: Operational Cost Quantification
+---
+description: "Phase 11: Quantify total cost of ownership (TCO) including infrastructure, licensing, maintenance, and hidden costs."
+---
 
-**Command**: `/oss-eval:costs`
+# OSS Evaluation - Phase 11: Operational Cost Quantification
 
 ## Purpose
 

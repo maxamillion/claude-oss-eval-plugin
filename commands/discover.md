@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 1: Discovery
+---
+description: "Phase 1: Conduct comprehensive web search discovery to identify candidate frameworks/libraries in the specified topic space."
+---
 
-**Command**: `/oss-eval:discover`
+# OSS Evaluation - Phase 1: Discovery
 
 ## Purpose
 

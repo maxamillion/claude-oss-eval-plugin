@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 4: Licensing Deep Dive
+---
+description: "Phase 4: Conduct thorough analysis of licensing implications including dependencies, commercial use restrictions, and compliance requirements."
+---
 
-**Command**: `/oss-eval:licensing`
+# OSS Evaluation - Phase 4: Licensing Deep Dive
 
 ## Purpose
 

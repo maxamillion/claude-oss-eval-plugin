@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 10: UI Integration Analysis
+---
+description: "Phase 10: Assess how each candidate integrates with UI including component libraries, theming, and accessibility."
+---
 
-**Command**: `/oss-eval:ui`
+# OSS Evaluation - Phase 10: UI Integration Analysis
 
 ## Purpose
 

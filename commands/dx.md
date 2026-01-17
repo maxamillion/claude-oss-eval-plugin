@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 12: Developer Experience Evaluation
+---
+description: "Phase 12: Evaluate developer experience (DX) including documentation quality, tooling, debugging, and learning resources."
+---
 
-**Command**: `/oss-eval:dx`
+# OSS Evaluation - Phase 12: Developer Experience Evaluation
 
 ## Purpose
 

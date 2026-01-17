@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 9: Gap Mitigation Strategy
+---
+description: "Phase 9: Develop comprehensive mitigation strategies for identified gaps including effort estimation and implementation planning."
+---
 
-**Command**: `/oss-eval:gaps`
+# OSS Evaluation - Phase 9: Gap Mitigation Strategy
 
 ## Purpose
 

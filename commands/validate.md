@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 15: Final Validation & Adversarial Review
+---
+description: "Phase 15: Conduct final validation through adversarial review ensuring all biases are addressed and recommendation is defensible."
+---
 
-**Command**: `/oss-eval:validate`
+# OSS Evaluation - Phase 15: Final Validation & Adversarial Review
 
 ## Purpose
 

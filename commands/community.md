@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 5: Community Health Check
+---
+description: "Phase 5: Assess the health, sustainability, and responsiveness of each candidate's open source community for long-term viability."
+---
 
-**Command**: `/oss-eval:community`
+# OSS Evaluation - Phase 5: Community Health Check
 
 ## Purpose
 

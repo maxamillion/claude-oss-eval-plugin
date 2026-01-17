@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 14: Hybrid Strategy Exploration
+---
+description: "Phase 14: Explore hybrid approaches that combine multiple candidates for different use cases to optimize outcomes."
+---
 
-**Command**: `/oss-eval:hybrid`
+# OSS Evaluation - Phase 14: Hybrid Strategy Exploration
 
 ## Purpose
 

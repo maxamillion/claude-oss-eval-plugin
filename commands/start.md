@@ -1,6 +1,8 @@
-# OSS Evaluation - Main Entry Point
+---
+description: Initialize and orchestrate a comprehensive 15-phase OSS framework evaluation with built-in safeguards against AI analysis pitfalls.
+---
 
-**Command**: `/oss-eval:start <topic-space>`
+# OSS Evaluation - Main Entry Point
 
 ## Purpose
 

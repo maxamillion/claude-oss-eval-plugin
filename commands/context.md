@@ -1,6 +1,8 @@
-# OSS Evaluation - Phase 13: Product Context Introduction
+---
+description: "Phase 13: Introduce specific product context and constraints to ground the evaluation in real business needs."
+---
 
-**Command**: `/oss-eval:context`
+# OSS Evaluation - Phase 13: Product Context Introduction
 
 ## Purpose
 
