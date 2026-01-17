@@ -1,7 +1,7 @@
 {
   "name": "oss-eval",
   "description": "15-phase OSS framework evaluation methodology with AI bias prevention. Evaluates open source projects for adoption decisions with rigorous safeguards against common AI analysis pitfalls.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Adam Miller",
     "url": "https://github.com/maxamillion"
