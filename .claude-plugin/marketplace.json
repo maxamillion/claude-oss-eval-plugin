@@ -1,4 +1,5 @@
 {
+  "name": "claude-oss-eval-plugin",
   "owner": {
     "name": "Adam Miller",
     "url": "https://github.com/maxamillion"
