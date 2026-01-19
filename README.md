@@ -4,6 +4,8 @@ A comprehensive Claude Code plugin implementing a 15-phase methodology for evalu
 
 This plugin is a work in progress and is subject to change.
 
+## Attribution and Acknowledgments
+
 The methodology used here to evaluate OSS frameworks was created by [@jwforres](https://github.com/jwforres) and [@n1hility](https://github.com/n1hility), and adapted here as a Claude Code Plugin.
 
 ## Overview
