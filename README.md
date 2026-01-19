@@ -2,6 +2,10 @@
 
 A comprehensive Claude Code plugin implementing a 15-phase methodology for evaluating open source software frameworks with built-in safeguards against AI analysis pitfalls.
 
+This plugin is a work in progress and is subject to change.
+
+The methodology used here to evaluate OSS frameworks was created by @jwforres and @n1hility and adapted here as a Claude Code Plugin.
+
 ## Overview
 
 This plugin provides a structured, bias-resistant approach to evaluating OSS frameworks for adoption decisions. It addresses common AI analysis problems including:
